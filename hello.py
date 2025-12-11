@@ -1,2 +1,2 @@
 def hello_world():
-    return "Hell"
+    return "Hello World!"
